@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900" width="700" height="900">
+<defs>
+  <clipPath id="band"><path d="M34 34 h632 a10 10 0 0 1 10 10 v146 h-652 v-146 a10 10 0 0 1 10 -10 z"/></clipPath>
+</defs>
+<rect width="700" height="900" fill="#F4EFE2"/>
+<g clip-path="url(#band)">
+  <rect x="34" y="34" width="632" height="156" fill="#C88512"/>
+  <path d="M34 190 L150 118 L214 156 L316 96 L410 158 L498 116 L666 190 Z" fill="#F4EFE2" opacity=".22"/>
+  <path d="M34 190 L128 142 L200 178 L300 128 L388 180 L472 146 L666 196 Z" fill="#12321A" opacity=".16"/>
+</g>
+<rect x="34" y="34" width="632" height="832" rx="10" fill="none" stroke="#12321A" stroke-opacity=".55" stroke-width="2"/>
+<rect x="46" y="46" width="608" height="808" rx="6" fill="none" stroke="#12321A" stroke-opacity=".28" stroke-width="1"/>
+
+<text x="350" y="128" font-family="Georgia,serif" font-size="30" fill="#F4EFE2" text-anchor="middle" letter-spacing="12">KPU FOOD</text>
+
+<text x="350" y="268" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19" fill="#12321A" fill-opacity=".62" text-anchor="middle" letter-spacing="6">KANGRA VALLEY · HIMACHAL</text>
+
+<g stroke="#12321A" stroke-opacity=".4">
+  <line x1="150" y1="300" x2="322" y2="300"/><line x1="378" y1="300" x2="550" y2="300"/>
+</g>
+<path d="M350 290 l11 10 -11 10 -11 -10 z" fill="#C88512"/>
+
+<text x="350" y="404" font-family="Georgia,serif" font-style="italic" font-size="86" fill="#12321A" text-anchor="middle">Mango</text>
+<text x="350" y="456" font-family="Georgia,serif" font-size="30" fill="#12321A" fill-opacity=".8" text-anchor="middle" letter-spacing="14">PICKLE</text>
+<text x="350" y="518" font-family="Georgia,serif" font-style="italic" font-size="27" fill="#12321A" fill-opacity=".55" text-anchor="middle">Aam ka Achaar</text>
+
+<line x1="150" y1="576" x2="550" y2="576" stroke="#12321A" stroke-opacity=".22"/>
+<text x="350" y="618" font-family="Georgia,serif" font-size="21" fill="#12321A" fill-opacity=".65" text-anchor="middle">Raw hill mango, mustard oil, rock salt,</text>
+<text x="350" y="648" font-family="Georgia,serif" font-size="21" fill="#12321A" fill-opacity=".65" text-anchor="middle">fenugreek, fennel, hand-ground spice.</text>
+
+<path d="M350.0 674.0 L356.9 697.7 L372.8 678.8 L369.4 703.3 L391.6 692.5 L378.6 713.5 L403.3 712.7 L382.8 726.6 L405.7 735.9 L381.4 740.2 L398.5 758.0 L374.5 752.1 L382.9 775.3 L363.4 760.1 L361.6 784.8 L350.0 763.0 L338.4 784.8 L336.6 760.1 L317.1 775.3 L325.5 752.1 L301.5 758.0 L318.6 740.2 L294.3 735.9 L317.2 726.6 L296.7 712.7 L321.4 713.5 L308.4 692.5 L330.6 703.3 L327.2 678.8 L343.1 697.7 Z" fill="#FFFFFF" opacity=".9"/>
+<path d="M350.0 679.0 L356.2 700.7 L370.7 683.4 L367.6 705.7 L387.9 695.9 L376.0 715.0 L398.5 714.2 L379.8 726.9 L400.7 735.3 L378.5 739.3 L394.2 755.5 L372.3 750.1 L380.0 771.3 L362.2 757.4 L360.6 779.9 L350.0 760.0 L339.4 779.9 L337.8 757.4 L320.0 771.3 L327.7 750.1 L305.8 755.5 L321.5 739.3 L299.3 735.3 L320.2 726.9 L301.5 714.2 L324.0 715.0 L312.1 695.9 L332.4 705.7 L329.3 683.4 L343.8 700.7 Z" fill="#FFCE00"/>
+<text x="350" y="741" font-family="'Arial Black',Impact,'Helvetica Neue',sans-serif" font-weight="900" font-size="25" fill="none" stroke="#FFCE00" stroke-width="3" stroke-linejoin="round" text-anchor="middle" letter-spacing="1.5">KPU</text>
+<text x="350" y="741" font-family="'Arial Black',Impact,'Helvetica Neue',sans-serif" font-weight="900" font-size="25" fill="#C8102E" text-anchor="middle" letter-spacing="1.5">KPU</text>
+
+<line x1="76" y1="806" x2="624" y2="806" stroke="#12321A" stroke-opacity=".28"/>
+<text x="76" y="840" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#12321A" fill-opacity=".6">SEASON MAY–JUL</text>
+<text x="350" y="840" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#12321A" fill-opacity=".6" text-anchor="middle">BATCH KP-01</text>
+<text x="624" y="840" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#12321A" fill-opacity=".6" text-anchor="end">NET 400 g</text>
+</svg>

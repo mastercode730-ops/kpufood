@@ -42,6 +42,6 @@ Contact us by phone, on WhatsApp or through the [enquiry form](/#trade), and tel
 
 Our team will reply with **pack sizes, margins and dispatch schedules** for your area.
 
-> Call 98160 51770 or 93180 40800, Monday to Sunday, 8 AM to 8 PM.
+> Call 98161 91501 or 93180 40800, Monday to Sunday, 8 AM to 8 PM.
 
 Planning for a festival season? Read our [preserving calendar](/blog/himalayan-preserving-calendar) to see when each product is made and when to order ahead.

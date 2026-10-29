@@ -160,7 +160,7 @@ export const faqs = [
   },
   {
     q: "How can I become a KPU FOOD distributor in Kangra or Himachal Pradesh?",
-    a: "Call 9816051770 or 9318040800, or send an enquiry through the website form. Share your city, current product lines and monthly volume and our team will respond with pack sizes, margins and dispatch schedules.",
+    a: "Call 9816191501 or 9318040800, or send an enquiry through the website form. Share your city, current product lines and monthly volume and our team will respond with pack sizes, margins and dispatch schedules.",
   },
   {
     q: "Which regions does KPU FOOD serve?",

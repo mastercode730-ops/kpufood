@@ -8,6 +8,6 @@ export default function Image() {
   return renderOg({
     kicker: "PICKLES · JAMS · SQUASH · CHUTNEY · MURABBA",
     title: "Himalayan food products, made in Kangra.",
-    footer: "Nagrota Bagwan, Himachal Pradesh  ·  Retail & wholesale  ·  98160 51770",
+    footer: "Nagrota Bagwan, Himachal Pradesh  ·  Retail & wholesale  ·  98161 91501",
   });
 }

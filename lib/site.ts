@@ -11,7 +11,7 @@ export const site = {
   founded: "2021",
   title: "Best Himalayan Food Products in Kangra | KPU FOOD",
   description:
-    "Himalayan food products in Kangra by KPU FOOD — pickles, jams, squash, chutneys, amla candy and murabba made in Nagrota Bagwan with natural ingredients and traditional Himachali recipes. B2B and retail supply. Call 9816051770.",
+    "Himalayan food products in Kangra by KPU FOOD — pickles, jams, squash, chutneys, amla candy and murabba made in Nagrota Bagwan with natural ingredients and traditional Himachali recipes. B2B and retail supply. Call 9816191501.",
   ogDescription:
     "Himalayan food products in Kangra — pickles, jams, squash, chutneys, candy and murabba crafted by KPU FOOD in Nagrota Bagwan, Himachal Pradesh. Retail and wholesale supply.",
   twitterDescription:
@@ -32,7 +32,7 @@ export const site = {
   logo: "/images/kpu-food-logo.png",
 
   phones: [
-    { display: "98160 51770", tel: "+919816051770" },
+    { display: "98161 91501", tel: "+919816191501" },
     { display: "93180 40800", tel: "+919318040800" },
   ],
   email: "kpufoods@gmail.com",

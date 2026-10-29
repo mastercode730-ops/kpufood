@@ -68,7 +68,7 @@ p{margin:0 0 1.15em}
 .mast__in{display:flex;align-items:center;justify-content:space-between;gap:1.5rem;height:72px}
 .wordmark{display:flex;align-items:center;gap:.7rem;white-space:nowrap}
 .wordmark__txt{display:flex;flex-direction:column;line-height:1.05;padding-left:.7rem;border-left:1px solid var(--rule)}
-.wordmark__mark{width:50px;height:38px;flex:0 0 auto;background:var(--logo) center/contain no-repeat}
+.wordmark__mark{width:46px;height:46px;flex:0 0 auto;background:var(--logo) center/contain no-repeat}
 .wordmark b{font-family:var(--display);font-size:1.32rem;font-weight:400;letter-spacing:.14em}
 .wordmark span{font-family:var(--mono);font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
 .nav{display:flex;align-items:center;gap:1.75rem}
@@ -251,7 +251,7 @@ p{margin:0 0 1.15em}
 /* closing ---------------------------------------------------- */
 .close{text-align:center;max-width:900px;margin-inline:auto}
 .close h2{font-size:clamp(2.2rem,5.2vw,4.2rem)}
-.close__mark{display:block;width:clamp(120px,14vw,164px);aspect-ratio:300/230;margin:0 auto 1.7rem;
+.close__mark{display:block;width:clamp(120px,14vw,164px);aspect-ratio:1;margin:0 auto 1.7rem;
   background:var(--logo) center/contain no-repeat;filter:drop-shadow(0 16px 28px rgba(0,0,0,.45))}
 .close .btns{justify-content:center}
 
@@ -263,7 +263,7 @@ p{margin:0 0 1.15em}
 .foot ul{list-style:none;margin:0;padding:0}
 .foot li{padding:.22rem 0}
 .foot a:hover{color:var(--amber)}
-.foot__mark{width:136px;aspect-ratio:300/230;display:block;margin-bottom:1.3rem;
+.foot__mark{width:120px;aspect-ratio:1;display:block;margin-bottom:1.3rem;
   background:var(--logo) center/contain no-repeat}
 .foot__tag{font-family:var(--display);font-style:italic;color:var(--amber);margin-top:1.2rem}
 .foot__bar{margin-top:2.8rem;border-top:1px solid var(--rule-i-soft);padding:1.3rem 0;display:flex;

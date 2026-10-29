@@ -25,7 +25,7 @@ export function renderOg({ kicker, title, footer }: { kicker: string; title: str
       >
         <div style={{ display: "flex", alignItems: "center", gap: 28 }}>
           {/* eslint-disable-next-line @next/next/no-img-element -- next/og renders plain <img> */}
-          <img src={logo} width={117} height={90} alt="" />
+          <img src={logo} width={104} height={104} alt="" />
           <div style={{ display: "flex", flexDirection: "column" }}>
             <div style={{ fontSize: 40, letterSpacing: 8 }}>KPU FOOD</div>
             <div style={{ fontSize: 20, letterSpacing: 5, color: "rgba(244,239,226,.6)" }}>KANGRA · EST. 2021</div>

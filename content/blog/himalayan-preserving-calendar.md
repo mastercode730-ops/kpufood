@@ -37,4 +37,4 @@ Fruit picked in its season tastes better and needs less correcting with sugar, s
 
 Pickles, chutneys and murabba are packed in food-grade jars and usually keep for 9 to 12 months. Squash, sharbat and juices are bottled to keep for 6 to 9 months. Store all of them in a cool, dry place away from direct sunlight.
 
-Want to know what's in stock right now? [Send us a message on WhatsApp](https://wa.me/919816051770) or call 98160 51770.
+Want to know what's in stock right now? [Send us a message on WhatsApp](https://wa.me/919816191501) or call 98160 51770.

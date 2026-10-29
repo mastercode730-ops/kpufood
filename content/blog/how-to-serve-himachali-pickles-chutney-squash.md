@@ -46,4 +46,4 @@ To keep a jar at its best, always use a clean, dry spoon and close the lid tight
 
 ---
 
-Want to try these at home? All six are part of our [bestselling range](/#products). [Ask on WhatsApp](https://wa.me/919816051770) for pack sizes and prices.
+Want to try these at home? All six are part of our [bestselling range](/#products). [Ask on WhatsApp](https://wa.me/919816191501) for pack sizes and prices.

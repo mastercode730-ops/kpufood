@@ -2,6 +2,8 @@
 
 export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://www.kpufood.com").replace(/\/$/, "");
 
+const WHATSAPP_NUMBER = "919816191501";
+
 export const site = {
   name: "KPU FOOD",
   alternateName: "KPU Foods",
@@ -45,11 +47,12 @@ export const site = {
   hours: { days: "Monday – Sunday", short: "Mon – Sun · 8 AM – 8 PM", opens: "08:00", closes: "20:00" },
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nagrota+Bagwan+Kangra+Himachal+Pradesh+176047",
 
+  // Every WhatsApp button and the enquiry form send to this number (country code, no "+").
   whatsapp: {
-    general: wa("919816051770", "Hi KPU FOOD, I want to know more about your Himalayan food products."),
-    productList: wa("919816051770", "Hi KPU FOOD, please share the product list and pack sizes."),
-    distributor: wa("919318040800", "Hi KPU FOOD, I am interested in becoming a distributor."),
-    enquiryNumber: "919816051770",
+    general: wa(WHATSAPP_NUMBER, "Hi KPU FOOD, I want to know more about your Himalayan food products."),
+    productList: wa(WHATSAPP_NUMBER, "Hi KPU FOOD, please share the product list and pack sizes."),
+    distributor: wa(WHATSAPP_NUMBER, "Hi KPU FOOD, I am interested in becoming a distributor."),
+    enquiryNumber: WHATSAPP_NUMBER,
   },
 
   analyticsId: "G-8XYC60YKDM",

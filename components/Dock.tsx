@@ -1,6 +1,6 @@
 import { site } from "@/lib/site";
 
-// Floating WhatsApp / call / chat buttons, bottom-right on every page.
+// Floating WhatsApp / call buttons, bottom-right on every page.
 export function Dock() {
   return (
     <div className="dock">
@@ -12,11 +12,6 @@ export function Dock() {
       <a className="ph" href={`tel:${site.phones[0].tel}`} aria-label="Call KPU FOOD">
         <svg viewBox="0 0 24 24" aria-hidden="true">
           <path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.5 21 3 13.5 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .8-.2 1l-2.3 2.2z" />
-        </svg>
-      </a>
-      <a className="ch" href={site.chatUrl} target="_blank" rel="noopener" aria-label="Chat with KPU FOOD">
-        <svg viewBox="0 0 24 24" aria-hidden="true">
-          <path d="M12 2a9 9 0 0 0-9 9c0 1.9.6 3.6 1.6 5L3 22l6.2-1.5A9 9 0 1 0 12 2zm-4 8.2h8v1.6H8zm0-3h8v1.6H8zm0 6h5v1.6H8z" />
         </svg>
       </a>
     </div>

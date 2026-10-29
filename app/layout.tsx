@@ -45,7 +45,7 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en" data-scroll-behavior="smooth">
-      <body className="mbg-has-whatsapp">
+      <body>
         <SiteHeader />
         <main>{children}</main>
         <SiteFooter />
@@ -55,9 +55,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Script src={`https://www.googletagmanager.com/gtag/js?id=${site.analyticsId}`} strategy="afterInteractive" />
         <Script id="gtag-init" strategy="afterInteractive">
           {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${site.analyticsId}');`}
-        </Script>
-        {site.chatWidgetSrc && <Script src={site.chatWidgetSrc} strategy="lazyOnload" />}
-      </body>
+        </Script>      </body>
     </html>
   );
 }

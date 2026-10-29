@@ -34,7 +34,7 @@ npm start
 
 | What | Where |
 | --- | --- |
-| Phone numbers, email, address, hours, WhatsApp messages, analytics ID, chat widget | `lib/site.ts` |
+| Phone numbers, email, address, hours, WhatsApp number and messages, analytics ID | `lib/site.ts` |
 | Product categories, bestsellers, season calendar, process steps, FAQs, testimonials, areas served | `lib/content.ts` |
 | Longer homepage paragraphs (About, Heritage, Trade…) | `components/home/*.tsx` |
 | Colours, fonts, spacing | `app/globals.css` (the `:root` variables at the top) |

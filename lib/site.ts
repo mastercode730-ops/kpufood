@@ -56,9 +56,6 @@ export const site = {
   },
 
   analyticsId: "G-8XYC60YKDM",
-  // MBG web-chat widget carried over from the old site. Set to null to remove it.
-  chatWidgetSrc: "https://chatbotbe.digitalmbg.com/webchat/embed.js?channelKey=gpWxpqEc2PLrYfNJcEja6bt1MgZnO9eG",
-  chatUrl: "https://app.mbgcart.com",
   poweredBy: { name: "MBG Card Pvt. Ltd.", url: "https://mbgcard.in" },
 } as const;
 

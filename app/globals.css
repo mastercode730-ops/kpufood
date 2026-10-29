@@ -277,12 +277,9 @@ p{margin:0 0 1.15em}
   box-shadow:0 14px 30px -18px rgba(18,50,26,.85);transition:transform .3s}
 .dock a:hover{transform:translateY(-3px)}
 .dock svg{width:22px;height:22px}
-.dock .wa{background:#1F8A4C}.dock .ph{background:var(--ink)}.dock .ch{background:var(--amber)}
+.dock .wa{background:#1F8A4C}.dock .ph{background:var(--ink)}
 .dock .wa svg,.dock .ph svg{fill:var(--paper)}
-.dock .ch svg{fill:var(--ink)}
 
-/* MBG web-chat widget sits above the floating dock */
-body.mbg-has-whatsapp :is([id^="ktt10"], iframe[src*="mbgcart.com/webchat"]){bottom:110px !important}
 
 /* ── blog ─────────────────────────────────────────────────── */
 
